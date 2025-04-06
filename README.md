@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Paulo Vitor! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+transi%C3%A7%C3%A3o+de+carreira!;Apaixonado+por+tecnologia+e+aprendizado+cont%C3%ADnuo!;Bora+codar+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=900&lines=%3CDesenvolvedor+em+transi%C3%A7%C3%A3o+de+carreira%2F%3E;%3CApaixonado+por+tecnologia+e+aprendizado+cont%C3%ADnuo%2F%3E;%3CBora+codar+%F0%9F%92%BB%2F%3E" alt="Typing SVG" />
 </p>
 
 ---
