@@ -1,60 +1,63 @@
-# Fala aí! 👋 Eu sou o Paulo Vitor!
+<h1 align="center">Olá, eu sou o Paulo Vitor! 👋</h1>
 
-Seja muito bem-vindo(a) ao meu GitHub!  
-Aqui você vai acompanhar de perto a minha **transição de carreira** — direto do quartel pro mundo da programação! 😄💻
-
----
-
-## 🚀 Quem sou eu?
-
-Atualmente sou **militar do Exército Brasileiro**, mas já estou me preparando pra virar a chave e começar uma nova fase como **Desenvolvedor Full Stack**.  
-Sim, trocando a farda pelo código, o campo de instrução pelo VS Code, e a missão do dia por deploy na sexta-feira. 😎
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+transi%C3%A7%C3%A3o+de+carreira!;Apaixonado+por+tecnologia+e+aprendizado+cont%C3%ADnuo!;Bora+codar+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-## 💻 O que estou estudando
+## 🚀 Sobre mim
 
-Estou mergulhado de cabeça nos estudos com o apoio do **DevClub**, com o mestre **Rodolfo Mori** — o cara que explica até os bugs com bom humor!
-
-As tecnologias que estou estudando agora são:
-
-- HTML5 (já na veia!)
-- CSS3 (posicionando tudo com estilo)
-- JavaScript (aos poucos dominando o bicho!)
-- Node.js (começando a brincar no back)
-- React (em breve, appzinhos surgirão!)
-- TypeScript (pra dar aquele toque de organização)
+🎖️ Militar do Exército em transição de carreira para a área da tecnologia  
+📍 De **Caucaia - CE**  
+🏄 Surfo de bodyboard | 🏃 Pratico corrida  
+💻 Estudando na plataforma **DevClub**, com o mestre **Rodolfo Mori**  
+🎯 Objetivo: Me tornar um Desenvolvedor Full Stack
 
 ---
 
-## ✨ Projetos na área
+## 💼 Projetos em destaque
 
-Tô colocando em prática o que venho aprendendo. Um dos projetos que já publiquei:
-
-- [Urban Connection 🚍](https://github.com/paulovitormcarvalho/Projeto_Urban_Connection): Uma landing page de uma agência de transporte urbano, feita 100% com HTML e CSS — e com muito orgulho! 😄
-
-Tem mais vindo por aí! Cada projeto novo é um passo a mais nessa jornada.
+- [🔗 Urban Connection](https://github.com/paulovitormcarvalho/Projeto_Urban_Connection)  
+  Uma landing page feita com HTML e CSS simulando uma agência de transporte urbano.
 
 ---
 
-## 🏄 Um pouco mais sobre mim
+## 🛠️ Tecnologias e Ferramentas
 
-- Sou de **Caucaia - CE** 🌊
-- Surfo de **bodyboard** nas horas vagas
-- Curto uma **corridinha no fim do dia**
-- Gosto de desafios e de aprender algo novo sempre
-- E tô aqui, de verdade, dando meu máximo pra mudar de vida e entrar de cabeça na área de tecnologia
+### Linguagens de Marcação e Estilo
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+### Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frameworks e Bibliotecas
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### Ferramentas de Desenvolvimento
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🤝 Bora se conectar?
+## 📫 Contato
 
-Se quiser trocar uma ideia, dar uma dica ou até oferecer uma oportunidade (quem sabe, né? 😁), só chamar!
-
-- [LinkedIn](https://www.linkedin.com/in/paulovitormcarvalho)
-- 📧 paulovitorm.carvalho@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulovitormcarvalho)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulovitormcarvalho@gmail.com)
 
 ---
 
-**"Tudo que é grande começa pequeno. E eu tô começando com tudo!"** 🚀  
-Valeu por passar por aqui e acompanhar meu progresso!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulovitormcarvalho&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovitormcarvalho&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulovitormcarvalho&style=flat-square&color=blue" alt="Visualizações de Perfil"/>
+</p>
