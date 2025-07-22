@@ -8,8 +8,8 @@
 
 ## 🚀 Sobre mim
 
-🎖️ Militar do Exército em transição de carreira para a área da tecnologia
-📍 De **Caucaia - CE**
+🎖️ Militar do Exército em transição de carreira para a área da tecnologia <br>
+📍 De **Caucaia - CE** <br>
 💻 Estudando na plataforma **DevClub**, com o mestre **Rodolfo Mori**
 
 ---
