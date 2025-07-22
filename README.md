@@ -8,11 +8,9 @@
 
 ## 🚀 Sobre mim
 
-🎖️ Militar do Exército em transição de carreira para a área da tecnologia  
-📍 De **Caucaia - CE**  
-🏄 Surfo de bodyboard | 🏃 Pratico corrida  
-💻 Estudando na plataforma **DevClub**, com o mestre **Rodolfo Mori**  
-🎯 Objetivo: Me tornar um Desenvolvedor Full Stack
+🎖️ Militar do Exército em transição de carreira para a área da tecnologia
+📍 De **Caucaia - CE**
+💻 Estudando na plataforma **DevClub**, com o mestre **Rodolfo Mori**
 
 ---
 
