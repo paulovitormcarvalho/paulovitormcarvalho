@@ -10,16 +10,10 @@
 
 🎖️ Militar do Exército em transição de carreira para a área da tecnologia <br>
 📍 De **Caucaia - CE** <br>
-💻 Estudando na plataforma **DevClub**, com o mestre **Rodolfo Mori**
 
 ---
 
 ## 💼 Projetos em destaque
-
-- [🔗 Urban Connection](https://github.com/paulovitormcarvalho/Projeto_Urban_Connection)  
-  Uma landing page feita com HTML e CSS simulando uma agência de transporte urbano.
-
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
